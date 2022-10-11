@@ -1,15 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
 
 * {
   box-sizing: border-box;
-  /* border: solid #5B6DCD 1px; */
 }
 
 body {
-  background-color: #f6f7fb;
-  font-family: 'Roboto', 'san-serif';
+  background-color: #b7f2cc;
+  background-image: linear-gradient(315deg, #75c490 0%, #2b90d8 100%);
+  font-family: 'Rajdhani', sans-serif;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;

@@ -32,4 +32,16 @@ h2 {
   padding: 10px;
   text-align: center;
   margin: 0;
+  font-size: 35px;
+  color: #0b7dd4;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: 25px;
+  color: #075e26;
 }
